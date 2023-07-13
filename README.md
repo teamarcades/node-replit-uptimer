@@ -1,61 +1,42 @@
-# ¡Servidor de Discord!
-<a href="https://teamarcades.xyz/discord">
-    <img src="https://discord.com/api/guilds/935157109761388554/widget.png?style=banner2">
-</a>
+# replit.uptimer
+<a href="https://teamarcades.xyz/dc" target="_blank"><img src="https://discord.com/api/guilds/935157109761388554/widget.png?style=banner2" alt="Join our discord" width="256"></a><br>
+**Support:** [https://teamarcades.xyz/dc](https://teamarcades.xyz/dc) <br>
+**NPM:** [npmjs.com/package/replit.uptimer](https://www.npmjs.com/package/replit.uptimer)<br>
 
-Nuestro [**Servidor**](https://teamarcades.xyz/discord) de Discord nos dedicamos a codificar y publicar nuevos codigos fuentes [únase al servidor de Discord](https://teamarcades.xyz/discord) para obtener un Bot personalizado o tambien una pagina web totalmente Gratis.
+## Installation
+- `npm i replit.uptimer`
+- `npm i k4itrun/replit.uptimer`
+- `yarn add replit.uptimer`
+- `pnpm add replit.uptimer`
+  
+## Features
+- No dependencies
+- No configuration required
+- Easy to use (only one line of code)
+- At full speed!
 
----
-
-**📌 NOTA:** ¡No dejes que tu replit se desconecte, Cree un servidor http con solo una línea de código y siga haciendo ping para mantener online tu proyecto!
-
----
-
-## 📥 Instalación
-
-**Se requiere Node.js v18.14.0 o superior**.
-
-```
-npm i replit-uptimer
-npm i k4itrun/replit-uptimer
-yarn add replit-uptimer
-pnpm add replit-uptimer
-```
-
-## ✨ Características
-
-- Sin dependencias
-- Sin configuración requerida
-- Fácil de usar (solo una línea de código)
-- ¡A toda velocidad!
-
-## 📦 Ejemplos
-
-**Sin configuracion**
-
+## Examples
+**no configuration**
 ```javascript
-require("replit-uptimer").config();
+require("replit.uptimer").config();
 ```
 
-**Con configuracion**
-
+**with configuration**
 ```javascript
-require("replit-uptimer").config({
- port: 8080,
+require("replit.uptimer").config({
+ port: 3000,
  path: "/",
- message: "Siempre online gracias a mi.",
+ message: "always online thanks to me.",
  debug: true,
 });
 ```
 
-## ⁉️ Issues
+## Issues
+If you have any issues with the page, please create [new issues here](https://github.com/k4itrun/replit.uptimer/issues)
 
-Si tiene algún problema con la página, cree [nuevo issues aquí](https://github.com/k4itrun/replit-uptimer/issues)
+## Aid applications
+When submitting a help request:
 
-## 📥 Solicitudes de ayudas
-
-Al enviar una solicitud de ayuda:
-
-- Clonar el repositorio.
-- Cree una rama del master y asígnele un nombre significativo (por ejemplo, mi-nueva-función-nueva).
-- Abra una [solicitud de ayuda](https://github.com/k4itrun/replit-uptimer/pulls) en [GitHub](https://github.com) y describa la característica o solución nueva.
+- Clone the repository.
+- Create a branch from master and give it a meaningful name (for example, my-new-new-feature).
+- Open a [help request](https://github.com/k4itrun/replit.uptimer/pulls) on [GitHub](https://github.com) and describe the new feature or solution.
