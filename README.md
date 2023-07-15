@@ -32,11 +32,11 @@ require("node-replit-uptimer").config({
 ```
 
 ## Issues
-If you have any issues with the page, please create [new issues here](https://github.com/k4itrun/replit-uptimer/issues)
+If you have any issues with the page, please create [new issues here](https://github.com/k4itrun/node-replit-uptimer/issues)
 
 ## Aid applications
 When submitting a help request:
 
 - Clone the repository.
 - Create a branch from master and give it a meaningful name (for example, my-new-new-feature).
-- Open a [help request](https://github.com/k4itrun/replit-uptimer/pulls) on [GitHub](https://github.com/) and describe the new feature or solution.
+- Open a [help request](https://github.com/k4itrun/node-replit-uptimer/pulls) on [GitHub](https://github.com/) and describe the new feature or solution.

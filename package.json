@@ -12,13 +12,13 @@
     "format": "prettier --write . --ignore-unknown",
     "lint": "eslint . --ext .js,.ts"
   },
-  "homepage": "https://github.com/k4itrun/replit-uptimer#readme",
+  "homepage": "https://github.com/k4itrun/node-replit-uptimer#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/k4itrun/replit-uptimer.git"
+    "url": "git+https://github.com/k4itrun/node-replit-uptimer.git"
   },
   "bugs": {
-    "url": "https://github.com/k4itrun/replit-uptimer/issues"
+    "url": "https://github.com/k4itrun/node-replit-uptimer/issues"
   },
   "devDependencies": {
     "eslint": "8.33.0",
