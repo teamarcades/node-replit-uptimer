@@ -1,6 +1,6 @@
 "use strict";
 
-const name = "[replit-uptimer]";
+const name = "[@replit/uptimer]";
 const colors = require("colors");
 const { createServer } = require("node:http");
 
