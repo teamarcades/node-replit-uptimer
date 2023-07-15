@@ -22,13 +22,3 @@ console.log(`${colors.green.bold(`:: server :: ${name} => online`)}`);
 module.exports = {
  config // => Soon more...
 };
-
-/**
- * @INFO
- * Desarollado por k4itrun | https://discord.gg/team-arcades-935157109761388554
- * @INFO
- * Team Arcades | https://teamarcades.xyz
- * @INFO
- * Asegúrate de dar creditos si vas a usar este Código
- * @INFO
-**/
