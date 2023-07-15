@@ -1,13 +1,13 @@
-# @replit/uptimer
+# node-replit-uptimer
 <a href="https://teamarcades.xyz/dc" target="_blank"><img src="https://discord.com/api/guilds/935157109761388554/widget.png?style=banner2" alt="Join our discord" width="256"></a><br>
 **Support:** [https://teamarcades.xyz/dc](https://teamarcades.xyz/dc) <br>
-**NPM:** [npmjs.com/package/@replit/uptimer](https://www.npmjs.com/package/@replit/uptimer)<br>
+**NPM:** [npmjs.com/package/node-replit-uptimer](https://www.npmjs.com/package/node-replit-uptimer)<br>
 
 ## Installation
-- `npm i @replit/uptimer`
-- `npm i k4itrun/-replit-uptimer`
-- `yarn add @replit/uptimer`
-- `pnpm add @replit/uptimer`
+- `npm i node-replit-uptimer`
+- `npm i k4itrun/replit-uptimer`
+- `yarn add node-replit-uptimer`
+- `pnpm add node-replit-uptimer`
   
 ## Features
 - No dependencies
@@ -18,12 +18,12 @@
 ## Examples
 **no configuration**
 ```javascript
-require("@replit/uptimer").config();
+require("node-replit-uptimer").config();
 ```
 
 **with configuration**
 ```javascript
-require("@replit/uptimer").config({
+require("node-replit-uptimer").config({
  port: 3000,
  path: "/",
  message: "always online thanks to me.",
@@ -32,11 +32,11 @@ require("@replit/uptimer").config({
 ```
 
 ## Issues
-If you have any issues with the page, please create [new issues here](https://github.com/k4itrun/-replit-uptimer/issues)
+If you have any issues with the page, please create [new issues here](https://github.com/k4itrun/replit-uptimer/issues)
 
 ## Aid applications
 When submitting a help request:
 
 - Clone the repository.
 - Create a branch from master and give it a meaningful name (for example, my-new-new-feature).
-- Open a [help request](https://github.com/k4itrun/-replit-uptimer/pulls) on [GitHub](https://github.com/) and describe the new feature or solution.
+- Open a [help request](https://github.com/k4itrun/replit-uptimer/pulls) on [GitHub](https://github.com/) and describe the new feature or solution.
